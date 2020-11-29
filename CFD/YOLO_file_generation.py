@@ -21,7 +21,7 @@ deal_with_all_files = 1
 # if true, deal with all files of chosen type
 # if false, deal with single file
 
-image_num = 10  # raise error when out of range
+image_num = 12  # raise error when out of range
 bbox_padding = 0 
 # the original bbox is 64*64, make it larger to merge better
 bbox_merge_padding = 3
