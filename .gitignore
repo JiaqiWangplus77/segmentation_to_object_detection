@@ -1,0 +1,13 @@
+
+__pycache__
+GAPs384/YOLO/**
+GAPs384/tiramisu_dataset/**
+*.jpg
+*.png
+
+CFD/groundTruth/**
+CFD/images/**
+CFD/segmentation_labels/**
+CFD/YOLO/**
+
+
