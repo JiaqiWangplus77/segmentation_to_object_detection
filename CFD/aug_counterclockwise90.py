@@ -16,7 +16,7 @@ deal_with_all_files = 0
 # if true, deal with all files of chosen type
 # if false, deal with single file
 
-image_num = 0# raise error when out of range
+image_num = 10 # raise error when out of range
 prefex = 'aug3_'
 
 
